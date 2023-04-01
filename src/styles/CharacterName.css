@@ -1,0 +1,22 @@
+.CharacterName {
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.CharacterName h1 {
+    display: inline-block;
+}
+
+.name {
+    display: flex;
+    align-items: center;
+}
+
+.name h1 {
+    margin: 0;
+}
+
+.name button {
+    margin: 20px;
+    height: 30px;
+}

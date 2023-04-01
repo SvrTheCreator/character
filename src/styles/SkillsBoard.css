@@ -1,0 +1,9 @@
+.SkillsBoard {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.SkillsBoard button {
+    margin-left: 10px;
+}

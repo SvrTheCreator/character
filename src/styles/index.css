@@ -1,0 +1,19 @@
+@import 'App';
+@import 'Button';
+@import 'CharacterName';
+@import 'CharacterView';
+@import 'Skill';
+@import 'SkillsBoard';
+@import 'Stats';
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,700;1,600&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {
+    background: url('https://mobimg.b-cdn.net/v3/fetch/be/be72747c7ddb8881e07886d3af2cfd5e.jpeg');
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-blend-mode: multiply;
+    background-color: rgba(0, 0, 0, 0.395);
+    /* font-family: 'Montserrat', sans-serif; */
+    font-family: 'Bebas Neue', cursive;
+}

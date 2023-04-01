@@ -1,0 +1,13 @@
+.Button {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.Button button {
+    width: 200px;
+    height: 95px;
+    background-color: #a1b2ce;
+    cursor: pointer;
+    font-size: 25px;
+}

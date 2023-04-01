@@ -1,0 +1,17 @@
+.Stats {
+    padding: 15px;
+    display: flex;
+    gap: 40px;
+}
+
+.Stats button {
+    margin-left: 10px;
+}
+
+.Stats ul {
+    padding: 20px;
+}
+
+.dynamic-stats {
+    margin: 60px 0 0 0;
+}
